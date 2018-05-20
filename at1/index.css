@@ -1,0 +1,13 @@
+p{
+    font-size: 20px;
+    /* background-color: blue; */
+    font-style: italic;
+    /* color: white; */
+}
+
+div{
+    /* background: red; */
+}
+a{
+    display: block;
+}
